@@ -1,10 +1,7 @@
 # MyTutorials
 Machine Learning and Time Series Notebooks  
 
-Basic time series analysis and machine learning examples are located in each notebook.   
+Please find my notebooks on basic time series analysis and machine learning.
+Eeach notebook contains a different topic, with instruction, rationale, and demonstration. 
 
-#TODO   
-1.) ~~Build basic time series model~~  
-2.) ~~Build basic machine learning models~~  
-3.) Introduce polynomial features  
-4.) Regularize neural network  
+Please reach out with any questions, comments, or concerns. 
